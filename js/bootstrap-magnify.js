@@ -117,4 +117,4 @@
         })
     })
 
-} ( window.jQuery || window.ender || window.zepto);
+} ( window.jQuery );

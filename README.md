@@ -34,7 +34,7 @@ Or import it at the end of your bootstrap.less file
 ```
 
 ### 2. Add the script
-Import the script at the bottom of your page, after jQuery or Zepto.
+Import the script at the bottom of your page, after jQuery.
 
 ``` html
     <script src="js/bootstrap-magnify.min.js"></script>
