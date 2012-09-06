@@ -11,7 +11,7 @@ details of your creation but you don't have the layout space to display your 120
 The images used are large images, shown at a smaller resolution on the website, the magnifying glass shows a small part
 at the native resolution. Keep in mind that large images are heavy and you must not abuse from this technique.
 
-![Screenshot](/example/screenshot.png)
+![Screenshot](https://raw.github.com/marcaube/bootstrap-magnify/master/example/screenshot.png)
 
 If you want to show the large preview at a 200% ratio, just use an image twice the size of it's container.
 
