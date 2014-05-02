@@ -24,8 +24,11 @@
             this.nativeWidth = 0
             this.nativeHeight = 0
 
-            this.$element.wrap('<div class="magnify" \>');
-            this.$element.parent('.magnify').append('<div class="magnify-large" \>');
+            if(!this.$element.parent().hasClass('magnify')) {
+                this.$element.wrap('<div class="magnify" \>');
+                this.$element.parent('.magnify').append('<div class="magnify-large" \>');
+            }
+            
             this.$element.siblings(".magnify-large").css("background","url('" + this.$element.attr("src") + "') no-repeat");
 
             this.$element.parent('.magnify').on(event + '.' + this.type, $.proxy(this.check, this));
