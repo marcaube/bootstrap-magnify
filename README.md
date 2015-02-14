@@ -57,3 +57,8 @@ Or, you can call it manually in javascript like this :
 ``` js
     $('.container img').magnify();
 ```
+
+
+## License
+
+bootstrap-magnify is released under the MIT License. See the bundled [LICENSE]() file for details.
