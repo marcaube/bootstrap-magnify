@@ -5,7 +5,14 @@ All Notable changes to `bootstrap-magnify` will be documented in this file
 
 ## [Unreleased]
 
-* Nothing
+## Added
+
+- This change log
+- A license file (MIT)
+
+## Removed
+
+- Broken link to CodePen in the README
 
 
 ## [0.3.0] - 2015-02-14
