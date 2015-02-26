@@ -7,6 +7,7 @@ All Notable changes to `bootstrap-magnify` will be documented in this file
 
 ## Added
 
+- `bower.json`
 - This change log
 - A license file (MIT)
 
