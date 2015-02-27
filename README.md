@@ -3,6 +3,13 @@
 `bootstrap-magnify` is a small js plugin to enhance porte-folios and image galleries.
 
 
+## Installation
+
+```bash
+bower install bootstrap-magnify
+```
+
+
 ## What it does
 
 This plugins adds a magnifying glass to images on mouseover. This is useful in porte-folios when you want to show
