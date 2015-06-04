@@ -9,5 +9,6 @@
         "image",
         "gallery"
     ],
+    "main": ["js/bootstrap-magnify.min.js", "css/bootstrap-magnify.min.css"],
     "license": "MIT"
 }
